@@ -14,8 +14,8 @@ Arduino IDE 2.1
 4) 버튼으로 눌렀을 때 작동
 # 작업시간 
 33시간 
-# 사진
-
+# 작동사진
+![img](/a.jpg)
 ![img](/ab.gif)
 ![img](/abc.gif)
 # 알려진 이슈
