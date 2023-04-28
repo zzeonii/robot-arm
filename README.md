@@ -15,7 +15,7 @@ Arduino IDE 2.1
 # 작업시간 
 33시간 
 # 사진
-![img](/a.jpg)
+
 ![img](/ab.gif)
 ![img](/abc.gif)
 # 알려진 이슈
